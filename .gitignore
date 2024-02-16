@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+puell_multiple_backtest.ipynb
+
+private/
+token_listing/
+dvol_price/
+arb_bot/
+
 # Distribution / packaging
 .Python
 build/
